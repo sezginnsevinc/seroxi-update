@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "changelog": "İlk sürüm\n- Assassin, Archer, Warrior, Priest-Mage makroları\n- Lisans sistemi eklendi\n- Otomatik güncelleme altyapısı",
+  "download_url": "https://github.com/sezginnsevinc/seroxi-updates/releases/download/v1.0.0/SEROXI.exe",
+  "release_date": "2026-02-22",
+  "min_version": "1.0.0",
+  "critical": false
+}
