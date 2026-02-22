@@ -1,8 +1,8 @@
 {
-  "version": "1.1.0",
+  "version": "1.0",
   "changelog": "SEROXI MACRO SYSTEM v1.1.0\n\nYENİLİKLER:\n- Assassin skill resimleri düzeltildi\n- Warrior skill resimleri eklendi\n- Lisans sistemi iyileştirildi\n- Hata düzeltmeleri yapıldı",
   "download_url": "https://github.com/sezginnsevinc/seroxi-updates/releases/download/v1.1.0/SEROXI.exe",
   "release_date": "2026-02-22",
-  "min_version": "1.0.0",
+  "min_version": "1.0",
   "critical": false
 }
