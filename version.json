@@ -1,8 +1,0 @@
-{
-  "version": "1.1.0",
-  "changelog": "Yeni özellikler:\n- Minor makro eklendi\n- Styx makro iyileştirildi\n- Hata düzeltmeleri",
-  "download_url": "https://github.com/sezginnsevinc/seroxi-updates/releases/download/v1.1.0/SEROXI.exe",
-  "release_date": "2026-02-23",
-  "min_version": "1.0.0",
-  "critical": false
-}
