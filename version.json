@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "changelog": "SEROXI MACRO SYSTEM v1.0\nYENİLİKLER:\n- Lisans sistemi iyileştirildi\n- Hata düzeltmeleri yapıldı",
+  "changelog": "SEROXI MACRO v1.0\nYENİLİKLER:\n-İlk sürüm.\n- Lisans sistemi iyileştirildi.\n- Hata düzeltmeleri yapıldı",
   "download_url": "https://github.com/sezginnsevinc/seroxi-updates/releases/download/v1.0/SEROXI.exe",
-  "release_date": "2026-02-22",
+  "release_date": "2026-02-26",
   "min_version": "1.0",
   "critical": false
 }
